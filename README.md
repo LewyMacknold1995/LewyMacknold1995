@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in frontend development, creating intuitive user interfaces, and exploring new web technologies.
 - 🌱 I’m currently learning advanced React techniques, TypeScript, and Python.
-- 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
+- 💞️ I’m looking for new job oppurtunties in Frontend Developement or Fullstack Development.
 - 📫 How to reach me:
   - Email: lewymacknoldseo@gmail.com
   - LinkedIn: https://www.linkedin.com/in/lewy-macknold-103089245/
